@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 
 
-class RegisteredUserController extends Controller
+class RegisterUserController extends Controller
 {
     /**
      * Handle an incoming registration request.
